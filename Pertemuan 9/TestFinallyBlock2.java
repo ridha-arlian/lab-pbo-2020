@@ -1,6 +1,6 @@
 
 /**
- * Code ini di buat untuk mencoba dan mengetes try catch dengan adanya finally.
+ * Code ini dibuat untuk mencoba dan mengetes try catch dengan adanya finally.
  *
  * @author (your name)
  * @version (a version number or a date)
