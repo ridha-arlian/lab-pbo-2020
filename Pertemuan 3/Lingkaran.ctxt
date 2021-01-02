@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Lingkaran
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Lingkaran\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=jari
+comment1.target=Lingkaran(double)
+comment1.text=Method\ constructor\ yang\ digunakan\ untuk\ menciptakan\ suatu\ objek
+comment2.params=jari
+comment2.target=void\ setJariJari(double)
+comment2.text=\ Method\ mutator\ yang\ digunakan\ untuk\ mengubah\ suatu\ nilai\ dari\ keadaan\ suatu\ objek\ tetapi\ \r\nmemiliki\ parameter
+comment3.params=
+comment3.target=double\ getJariJari()
+comment3.text=Method\ accessor\ yang\ digunakan\ untuk\ mengembalikan\ nilai\ dari\ jari\ jari
+numComments=4
