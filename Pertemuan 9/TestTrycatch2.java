@@ -1,6 +1,6 @@
 
 /**
- * Code ini di buat untuk mencoba try catch exception.
+ * Code ini dibuat untuk mencoba try catch exception.
  *
  * @author (your name)
  * @version (a version number or a date)
