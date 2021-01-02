@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Siswa
+comment0.text=\r\n\ Class\ ini\ dibuat\ untuk\ menyimpan\ data,\ kemudian\ class\ ini\ akan\ dipanggil\r\n\ pada\ class\ TesSiswa\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Siswa()
+comment2.params=nrp\ nama
+comment2.target=Siswa(int,\ java.lang.String)
+comment3.params=nrp
+comment3.target=void\ setNrp(int)
+comment4.params=
+comment4.target=int\ getNrp()
+comment5.params=nama
+comment5.target=void\ setNama(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getNama()
+numComments=7
