@@ -1,6 +1,6 @@
 
 /**
- * /* Code ini di buat untuk mencoba try catch dengan banyak blok
+ * /* Code ini dibuat untuk mencoba try catch dengan banyak blok
  *
  * @author (your name)
  * @version (a version number or a date)
